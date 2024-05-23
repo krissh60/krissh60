@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krissh60
-- 👀 I’m interested in ...PYTHON RUBY ......
+- 👀 I’m interested in ...Web Development Javascript .....
 - 🌱 I’m currently learning ...web development By THE ODIN PROJECT
 - 💞️ I’m looking to collaborate on ...anything that can help me in reaching my goal to be a very good developer
 - 📫 How to reach me ... You can reach me ----- krisshraj60@gmail.com
